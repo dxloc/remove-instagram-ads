@@ -6,6 +6,10 @@
 // @author       dxloc
 // @match        https://*.instagram.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/dxloc/remove-instagram-ads/main/remove-insta-ads.js
+// @downloadURL  https://raw.githubusercontent.com/dxloc/remove-instagram-ads/main/remove-insta-ads.js
+// @connect      *
+// @connect      api.github.com
 // ==/UserScript==
 
 var count = 0;
