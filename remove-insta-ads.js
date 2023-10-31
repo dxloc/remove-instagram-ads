@@ -19,7 +19,7 @@ function scanArticle() {
     var list = document.getElementsByTagName('article');
     for (var i = 0; i < list.length; i++) {
         var article = list[i];
-        if (article.innerHTML.indexOf('Sponsored') !== -1) {
+        if ((article.innerHTML.indexOf('Sponsored') !== -1) || (article.innerHTML.indexOf('#Svg') !== -1)) {
             var clone = article.cloneNode(true);
             console.log(clone);
             article.innerHTML = '';
