@@ -4,6 +4,7 @@
 // @version      1.0.1
 // @description  try to take over the world!
 // @author       dxloc
+// @supportURL   https://github.com/dxloc/remove-instagram-ads/issues
 // @match        https://*.instagram.com/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/dxloc/remove-instagram-ads/main/remove-insta-ads.js
