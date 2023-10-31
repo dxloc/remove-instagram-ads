@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Remove instagram ads
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  try to take over the world!
 // @author       dxloc
 // @match        https://*.instagram.com/*
