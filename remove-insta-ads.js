@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Remove instagram ads
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.2
 // @description  try to take over the world!
 // @author       dxloc
 // @supportURL   https://github.com/dxloc/remove-instagram-ads/issues
