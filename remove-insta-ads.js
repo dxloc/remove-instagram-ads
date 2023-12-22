@@ -24,6 +24,7 @@ function scanArticle() {
             continue;
         }
         if ((article.innerHTML.indexOf('Sponsored') !== -1) ||
+            (article.innerHTML.indexOf('Được tài trợ') !== -1) ||
             (article.innerHTML.indexOf('#Svg') !== -1)) {
             var clone = article.cloneNode(true);
             console.log(clone);
